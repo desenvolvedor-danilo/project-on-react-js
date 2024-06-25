@@ -1,0 +1,18 @@
+.swiper-container{
+    margin-top: 40px ;
+}
+.slide-item > img{
+    width: 100%;
+ 
+ }
+
+@media(max-width:720px){
+.slide-item > img{
+   width: 100%;
+
+}
+.swiper-container{
+    width: 100%;
+    margin-top:40px;
+}
+}

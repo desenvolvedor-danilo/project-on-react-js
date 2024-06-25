@@ -1,0 +1,23 @@
+.navBar{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    background-color: black;
+    
+}
+.link{
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    border: 1px solid white;
+    margin-right: 10px;
+    ;
+}
+.link:hover{
+    color: black;
+    background-color: white
+}
